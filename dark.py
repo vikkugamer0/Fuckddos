@@ -19,8 +19,8 @@ db = client['VipDatabase']
 users_collection = db['users']
 redeem_codes_collection = db['redeem_codes']
 
-TELEGRAM_BOT_TOKEN = '7500302174:AAFpRBANnTdjyVoqJeyTNgTA7XWiA75Kizw'
-ADMIN_USER_ID =6436350809
+TELEGRAM_BOT_TOKEN = '7633739831:AAHaj_my2iQBhf8prDJhZK59umYfrwYXpX0'
+ADMIN_USER_ID =6957116305
 
 cooldown_dict = {}
 user_attack_history = {}
